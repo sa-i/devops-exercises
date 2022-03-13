@@ -1246,7 +1246,7 @@ For example, port `2017` and endpoint `/health`.
 
 <details>
 <summary>Which type of AWS load balancer is used in the following drawing?<br>
-<img src="images/aws/identify_load_balancer.png" width="300x;" height="400px;"/>
+<img src="images/aws/identify_load_balancer.png" width="300px;" height="400px;"/>
 </summary><br><b>
 
 Application Load Balancer (routing based on different endpoints + HTTP is used).
@@ -2833,6 +2833,11 @@ Read more [here](https://aws.amazon.com/quickstart)
 
 <details>
 <summary>What is the Trusted Advisor?</summary><br><b>
+
+Amazon definition: "AWS Trusted Advisor provides recommendations that help you follow AWS best practices. Trusted Advisor evaluates your account by using checks. These checks identify ways to optimize your AWS infrastructure, improve security and performance, reduce costs, and monitor service quotas."
+
+Learn more [here](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+
 </b></details>
 
 <details>
